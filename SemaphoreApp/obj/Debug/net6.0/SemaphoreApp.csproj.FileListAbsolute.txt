@@ -1,0 +1,15 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\SemaphoreApp\bin\Debug\net6.0\SemaphoreApp.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\SemaphoreApp\bin\Debug\net6.0\SemaphoreApp.deps.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\SemaphoreApp\bin\Debug\net6.0\SemaphoreApp.runtimeconfig.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\SemaphoreApp\bin\Debug\net6.0\SemaphoreApp.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\SemaphoreApp\bin\Debug\net6.0\SemaphoreApp.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\SemaphoreApp\obj\Debug\net6.0\SemaphoreApp.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\SemaphoreApp\obj\Debug\net6.0\SemaphoreApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\SemaphoreApp\obj\Debug\net6.0\SemaphoreApp.AssemblyInfoInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\SemaphoreApp\obj\Debug\net6.0\SemaphoreApp.AssemblyInfo.cs
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\SemaphoreApp\obj\Debug\net6.0\SemaphoreApp.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\SemaphoreApp\obj\Debug\net6.0\SemaphoreApp.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\SemaphoreApp\obj\Debug\net6.0\refint\SemaphoreApp.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\SemaphoreApp\obj\Debug\net6.0\SemaphoreApp.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\SemaphoreApp\obj\Debug\net6.0\SemaphoreApp.genruntimeconfig.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\SemaphoreApp\obj\Debug\net6.0\ref\SemaphoreApp.dll

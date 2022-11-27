@@ -1,0 +1,8 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\ThreadExamples\bin\Debug\ThreadExamples.exe.config
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\ThreadExamples\bin\Debug\ThreadExamples.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\ThreadExamples\bin\Debug\ThreadExamples.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\ThreadExamples\obj\Debug\ThreadExamples.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\ThreadExamples\obj\Debug\ThreadExamples.csproj.SuggestedBindingRedirects.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\ThreadExamples\obj\Debug\ThreadExamples.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\ThreadExamples\obj\Debug\ThreadExamples.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\ThreadExamples\obj\Debug\ThreadExamples.pdb

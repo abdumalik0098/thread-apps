@@ -1,0 +1,15 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\MutexApp\bin\Debug\net6.0\MutexApp.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\MutexApp\bin\Debug\net6.0\MutexApp.deps.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\MutexApp\bin\Debug\net6.0\MutexApp.runtimeconfig.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\MutexApp\bin\Debug\net6.0\MutexApp.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\MutexApp\bin\Debug\net6.0\MutexApp.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\MutexApp\obj\Debug\net6.0\MutexApp.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\MutexApp\obj\Debug\net6.0\MutexApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\MutexApp\obj\Debug\net6.0\MutexApp.AssemblyInfoInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\MutexApp\obj\Debug\net6.0\MutexApp.AssemblyInfo.cs
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\MutexApp\obj\Debug\net6.0\MutexApp.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\MutexApp\obj\Debug\net6.0\MutexApp.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\MutexApp\obj\Debug\net6.0\refint\MutexApp.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\MutexApp\obj\Debug\net6.0\MutexApp.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\MutexApp\obj\Debug\net6.0\MutexApp.genruntimeconfig.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\MutexApp\obj\Debug\net6.0\ref\MutexApp.dll

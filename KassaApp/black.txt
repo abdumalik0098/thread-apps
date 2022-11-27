@@ -1,0 +1,211 @@
+﻿using System;
+using System.Threading;
+
+class Demonstration
+{
+    static void Main()
+    {
+        new MutexPingPongExample().runTest();
+    }
+}
+
+public class MutexPingPongExample
+{
+    Mutex mutex = new Mutex();
+    bool flag = false;
+
+    void ping()
+    {
+        while (true)
+        {
+            mutex.WaitOne();
+
+            while (flag)
+            {
+                mutex.ReleaseMutex();
+                mutex.WaitOne();
+            }
+
+            Console.WriteLine("Ping");
+            flag = true;
+
+            mutex.ReleaseMutex();
+        }
+    }
+
+
+    void pong()
+    {
+        while (true)
+        {
+            mutex.WaitOne();
+
+            while (!flag)
+            {
+                mutex.ReleaseMutex();
+                mutex.WaitOne();
+            }
+
+            Console.WriteLine("Pong"); 
+            flag = false;
+
+            mutex.ReleaseMutex();
+        }
+    }
+
+
+    public void runTest()
+    {
+
+        Thread pingThread = new Thread(() =>
+        {
+            ping();
+        });
+
+
+        Thread pongThread = new Thread(() =>
+        {
+            pong();
+        });
+
+
+        pingThread.IsBackground = true;
+        pongThread.IsBackground = true;
+
+        pingThread.Start();
+        pongThread.Start();
+
+        Thread.Sleep(10000);
+    }
+}
+
++++++++++++++
+
+using System;
+using System.Threading;
+
+class Demonstration
+{
+    static void Main()
+    {
+        Console.WriteLine(Environment.OSVersion);
+        Console.WriteLine(Environment.Version);
+
+        Mutex mutex = new Mutex();
+        Thread t1 = new Thread(() => {
+
+            mutex.WaitOne();
+            Console.WriteLine("t1 exiting");
+        });
+        t1.Start();
+        t1.Join();
+
+        Thread t2 = new Thread(() => {
+            mutex.WaitOne();
+            Console.WriteLine("t2 exiting");
+        });
+        t2.Start();
+        t2.Join();
+    }
+}
+
+--------------------------------
+
+
+
+
+using System;
+using System.Threading;
+
+class Demonstration
+{
+    static void Client()
+    {
+        
+    }
+
+    static void Main()
+    {
+        Mutex mutex = new Mutex();
+
+        for (int i = 0; i < 5; i++)
+        {
+            Thread t1 = new Thread(() => {
+
+                mutex.WaitOne();
+                Console.WriteLine($"Client {i}");
+                //Thread.Sleep(3000);
+                mutex.ReleaseMutex();
+
+            });
+
+            t1.Start();
+
+            Thread t2 = new Thread(() => {
+
+                mutex.WaitOne();
+
+                Console.WriteLine($"Client {i}");
+                //Thread.Sleep(3000);
+
+                mutex.ReleaseMutex();
+
+            });
+
+            t2.Start();
+        }
+
+    }
+}
+
+---------------
+
+/*using System;
+using System.Threading;
+*/
+/*
+public class KassaApp
+{
+    private static Semaphore sema;
+
+    private static int _padding;
+
+    public static void Main()
+    {
+        sema = new Semaphore(initialCount: 0, maximumCount: 3);
+
+        for (int i = 1; i <= 5; i++)
+        {
+            Thread t = new Thread(new ParameterizedThreadStart(Worker));
+
+            t.Start(i);
+        }
+
+        
+        Thread.Sleep(500);
+
+        
+        Console.WriteLine("Main thread calls Release(3).");
+        sema.Release(releaseCount: 3);
+
+        Console.WriteLine("Main thread exits.");
+    }
+
+    private static void Worker(object num)
+    {
+        Console.WriteLine("Thread {0} begins " +
+            "and waits for the semaphore.", num);
+        sema.WaitOne();
+
+        int padding = Interlocked.Add(ref _padding, 100);
+
+        Console.WriteLine("Thread {0} enters the semaphore.", num);
+
+        Thread.Sleep(1000 + padding);
+
+        Console.WriteLine("Thread {0} releases the semaphore.", num);
+        Console.WriteLine("Thread {0} previous semaphore count: {1}",
+            num, sema.Release());
+    }
+}
+*/

@@ -1,0 +1,15 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\KassaMutex\bin\Debug\net6.0\KassaMutex.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\KassaMutex\bin\Debug\net6.0\KassaMutex.deps.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\KassaMutex\bin\Debug\net6.0\KassaMutex.runtimeconfig.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\KassaMutex\bin\Debug\net6.0\KassaMutex.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\KassaMutex\bin\Debug\net6.0\KassaMutex.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\KassaMutex\obj\Debug\net6.0\KassaMutex.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\KassaMutex\obj\Debug\net6.0\KassaMutex.GeneratedMSBuildEditorConfig.editorconfig
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\KassaMutex\obj\Debug\net6.0\KassaMutex.AssemblyInfoInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\KassaMutex\obj\Debug\net6.0\KassaMutex.AssemblyInfo.cs
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\KassaMutex\obj\Debug\net6.0\KassaMutex.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\KassaMutex\obj\Debug\net6.0\KassaMutex.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\KassaMutex\obj\Debug\net6.0\refint\KassaMutex.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\KassaMutex\obj\Debug\net6.0\KassaMutex.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\KassaMutex\obj\Debug\net6.0\KassaMutex.genruntimeconfig.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\MultiThreadApp\KassaMutex\obj\Debug\net6.0\ref\KassaMutex.dll
